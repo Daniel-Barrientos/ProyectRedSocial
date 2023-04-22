@@ -1,6 +1,5 @@
 package Controller;
 
-import Model.Usuario;
 import View.PrincipalView;
 import View.RegistroView;
 import RedSocial.RedSocial;
